@@ -1,17 +1,18 @@
 [Hangul/Keyboard]
 Type=Enum
-DefaultValue=Dubeolsik
+DefaultValue=Sebeolsik 318Na
 Description=Keyboard Layout
-EnumCount=9
-Enum0=Dubeolsik
-Enum1=Dubeolsik Yetgeul
-Enum2=Sebeolsik 390
-Enum3=Sebeolsik Final
-Enum4=Sebeolsik Noshift
-Enum5=Sebeolsik Yetgeul
-Enum6=Sebeolsik Dubeol Layout
-Enum7=Romaja
-Enum8=Ahnmatae
+EnumCount=10
+Enum0=Sebeolsik 318Na
+Enum1=Dubeolsik
+Enum2=Dubeolsik Yetgeul
+Enum3=Sebeolsik 390
+Enum4=Sebeolsik Final
+Enum5=Sebeolsik Noshift
+Enum6=Sebeolsik Yetgeul
+Enum7=Sebeolsik Dubeol Layout
+Enum8=Romaja
+Enum9=Ahnmatae
 
 
 [Hangul/HanjaModeToggleKey]

@@ -5,7 +5,8 @@
 
 typedef enum _FcitxHangulKeyboard
 {
-    Dubeolsik = 0,
+    Sebeolsik_318 = 0,
+    Dubeolsik,
     Dubeolsik_Yetgeul,
     Sebeolsik_390,
     Sebeolsik_Final,
